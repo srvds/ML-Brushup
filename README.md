@@ -5,6 +5,8 @@ Inviting collaboration.
 
 I will compile and add all the unique points.All collaborators will appear names will be inclused in the final draft. 
 
+Day Zero: Familarize yourself with the tools
+
 New to github? [quick start guide](https://guides.github.com/activities/hello-world/) <br>
 Fork this repository<br>
 Edit the .md files of the topics.<br>
