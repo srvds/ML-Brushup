@@ -7,7 +7,9 @@ Edit the .md files of the topics.<br>
 or upload a ipython notebook.<br>
 then commit to your forked repository<br>
 raise a pull request so i can update this repository<br>
-AAIC students refer [site](https://www.appliedaicourse.com/course/applied-ai-course-online/) for topics 
+I will compile and add all the unique points.All collaborators will appear names will be inclused in the final draft. 
+
+AAIC students refer [site](https://www.appliedaicourse.com/course/applied-ai-course-online/) for topics.
 
 ## Topics
 
