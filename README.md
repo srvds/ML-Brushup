@@ -2,8 +2,11 @@
 
 Inviting collaboration.
 
-Edit the .md files of the topics.
-
+Fork this repository<br>
+Edit the .md files of the topics.<br>
+or upload a ipython notebook.<br>
+then commit to your forked repository<br>
+raise a pull request so i can update this repository<br>
 AAIC students refer [site](https://www.appliedaicourse.com/course/applied-ai-course-online/) for topics 
 
 ## Topics
