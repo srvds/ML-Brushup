@@ -5,7 +5,7 @@ Inviting collaboration.
 
 I will compile and add all the unique points.All collaborators will appear names will be inclused in the final draft. 
 
-**Day Zero(1/12/2018): Familiarize yourself with the tools**
+**Day Zero(2/12/2018): Familiarize yourself with the tools**
 
 New to github? [quick start guide](https://guides.github.com/activities/hello-world/) <br>
 Fork this repository<br>
@@ -19,7 +19,7 @@ refer [Producing Mathematical Formulae using LaTeX](https://www.maths.tcd.ie/~dw
 if you want to insert hand written snipet of formulas, just upload them in the photos folder and use the link.<br>
 \<img src="your link here"\>
 
-AAIC students refer [site](https://www.appliedaicourse.com/course/applied-ai-course-online/) for topics. **START on 2/12/2018 sunday**
+AAIC students refer [site](https://www.appliedaicourse.com/course/applied-ai-course-online/) for topics. **START on 3/12/2018 sunday**
 
 ## Topics
 
